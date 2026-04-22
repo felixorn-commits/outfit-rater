@@ -22,7 +22,7 @@ How to Run the Program
 Open a terminal
 Navigate to the folder where the file is located
 Run the following command:
-python outfit_rater.py
+outfitrater.py
 Example Usage
 
 The user selects:
